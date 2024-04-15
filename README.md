@@ -27,11 +27,7 @@ We invite contributions from researchers and developers interested in advancing 
 ### Citation:
 
 If you use our work in your research, please cite our paper:
-@misc{Sharma2024large,
-title={IndicBART alongside Visual Element: Multimodal Summarization in Diverse Indian Languages},
-author={Deepak Prakash, Raghvendra Kumar, Shubham Sharma and Shubham Sharma},
-year={2024}
-}.
+To be updated post publication citation (Accepted in ICDAR-2024)
 ### License:
 
 This repository is released under the [Apache 2.0 License].
