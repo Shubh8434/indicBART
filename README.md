@@ -2,7 +2,7 @@
 
 #### Dataset Used: Y. Verma, Anubhav Jangra, Raghvendra Kumar and Sriparna Saha (2023), “Large Scale Multi-Lingual Multi-Modal Summarization Dataset”,17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), May 2–6, 2023, Croatia.
 
-#### Dataset link: https://arxiv.org/abs/2302.06560
+#### Dataset link: https://github.com/Raghvendra-14/M3LS
 
 In today's era of information abundance, the need for sophisticated summarization techniques is more pronounced than ever, particularly in linguistically diverse areas such as India. This GitHub repository presents an innovative solution for multimodal multilingual summarization, seamlessly integrating textual and visual elements to generate concise and coherent summaries.
 
