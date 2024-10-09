@@ -24,6 +24,14 @@ Use model.py to train the model from scratch or fine-tune it. For fusion of feat
 ### Contributions Welcome:
 We invite contributions from researchers and developers interested in advancing summarization techniques, particularly in linguistically diverse contexts. Whether it's enhancing existing models, adding support for additional languages, or improving evaluation methodologies, your contributions can help drive the field forward.
 
+### License:
+
+This repository is released under the [Apache 2.0 License].
+
+### Contact:
+
+For inquiries or collaborations, feel free to contact us at [amnour.rajsubham@gmail.com]
+
 ### Citation
 
 If you use this work, please cite it as:
@@ -37,10 +45,3 @@ If you use this work, please cite it as:
   year={2024},
   organization={Springer}
 }
-### License:
-
-This repository is released under the [Apache 2.0 License].
-
-### Contact:
-
-For inquiries or collaborations, feel free to contact us at [amnour.rajsubham@gmail.com]
