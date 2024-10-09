@@ -27,12 +27,15 @@ We invite contributions from researchers and developers interested in advancing 
 ### Citation:
 @inproceedings{kumar2024indicbart,
   title={IndicBART Alongside Visual Element: Multimodal Summarization in Diverse Indian Languages},
-  author={Kumar, Raghvendra and Prakash, Deepak and Saha, Sriparna and Sharma, Shubham},
-  booktitle={International Conference on Document Analysis and Recognition},
+  author={Kumar, Raghvendra and Verma, Yash and Jangra, Anubhav and Saha, Sriparna and Sharma, Shubham},
+  booktitle={Proceedings of the International Conference on Document Analysis and Recognition},
   pages={264--280},
   year={2024},
-  organization={Springer}
+  publisher={Springer},
+  address={Croatia},
+  month={May}
 }
+
 ### License:
 
 This repository is released under the [Apache 2.0 License].
