@@ -24,18 +24,19 @@ Use model.py to train the model from scratch or fine-tune it. For fusion of feat
 ### Contributions Welcome:
 We invite contributions from researchers and developers interested in advancing summarization techniques, particularly in linguistically diverse contexts. Whether it's enhancing existing models, adding support for additional languages, or improving evaluation methodologies, your contributions can help drive the field forward.
 
-### Citation:
+### Citation
+
+If you use this work, please cite it as:
+
+```bibtex
 @inproceedings{kumar2024indicbart,
   title={IndicBART Alongside Visual Element: Multimodal Summarization in Diverse Indian Languages},
-  author={Kumar, Raghvendra and Verma, Yash and Jangra, Anubhav and Saha, Sriparna and Sharma, Shubham},
-  booktitle={Proceedings of the International Conference on Document Analysis and Recognition},
+  author={Kumar, Raghvendra and Prakash, Deepak and Saha, Sriparna and Sharma, Shubham},
+  booktitle={International Conference on Document Analysis and Recognition},
   pages={264--280},
   year={2024},
-  publisher={Springer},
-  address={Croatia},
-  month={May}
+  organization={Springer}
 }
-
 ### License:
 
 This repository is released under the [Apache 2.0 License].
